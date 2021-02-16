@@ -1,0 +1,12 @@
+Developer: Khaled Talaat
+E-mail: ktalaat@unm.edu
+
+If used please cite: 
+Khaled Talaat, Adam Hecht, Jinxiang Xi
+"A Comparison of CFPD, Compartment, and Uniform Distribution Models for Radiation Dosimetry of Radionuclides in the Lung"
+Journal of Radiological Protection (2021)
+
+
+It is assumed that you have already obtained the VIP-Man phantom from RSICC. VIP-Man is developed by Xu et al. Health Phys (2000) and is not included. You will also need a co-registered lung model for CFPD simulations. 
+
+The scripts were developed for specific cases/models but may serve as a template for similar work.
